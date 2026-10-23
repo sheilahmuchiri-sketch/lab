@@ -1,5 +1,5 @@
 # Lab Notebook Instructions
-
+ 
 The published version of this lab notebook is available at <https://maptv.github.io/lab>.
 
 All of the chapters for the lab have already been published.
